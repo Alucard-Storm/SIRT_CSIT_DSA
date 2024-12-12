@@ -14,3 +14,8 @@
 | 10 | Write a program to implement Bubble Sort |
 | 11 | Write a program implement binary search |
 | 12 | Write a program using pointers to print all characters in a string |
+
+
+> [!NOTE]
+> This repo defaults to linux gcc compiler, for windows delete the tasks.json and rename tasks_windows.json to tasks.json
+> For windows I'm using [minGW](https://sourceforge.net/projects/mingw/files/Installer/) compile at C:/mingw64
